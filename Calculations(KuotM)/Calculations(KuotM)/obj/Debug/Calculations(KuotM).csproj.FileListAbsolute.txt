@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\bin\Debug\Calculations(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\bin\Debug\Calculations(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\bin\Debug\Calculations(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\obj\Debug\Calculations(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\obj\Debug\Calculations_KuotM_.CalculationsForm.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\obj\Debug\Calculations_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\obj\Debug\Calculations(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\obj\Debug\Calculations(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\Calculations(KuotM)\Calculations(KuotM)\obj\Debug\Calculations(KuotM).pdb

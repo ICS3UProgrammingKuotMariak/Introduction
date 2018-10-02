@@ -1,0 +1,9 @@
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\bin\Debug\HelloWorldKuotM.exe.config
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\bin\Debug\HelloWorldKuotM.exe
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\bin\Debug\HelloWorldKuotM.pdb
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\obj\Debug\HelloWorldKuotM.csprojResolveAssemblyReference.cache
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\obj\Debug\HelloWorldKuotM.frmHelloWorld.resources
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\obj\Debug\HelloWorldKuotM.Properties.Resources.resources
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\obj\Debug\HelloWorldKuotM.csproj.GenerateResource.Cache
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\obj\Debug\HelloWorldKuotM.exe
+C:\Users\s295215\Documents\ICS3U Programming\Introduction\HelloWorldKuotM\HelloWorldKuotM\obj\Debug\HelloWorldKuotM.pdb

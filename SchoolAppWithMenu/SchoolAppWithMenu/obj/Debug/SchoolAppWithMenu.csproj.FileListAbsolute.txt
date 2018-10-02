@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\bin\Debug\SchoolAppWithMenu.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\bin\Debug\SchoolAppWithMenu.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\bin\Debug\SchoolAppWithMenu.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\obj\Debug\SchoolAppWithMenu.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\obj\Debug\SchoolAppWithMenu.frmSchoolApp.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\obj\Debug\SchoolAppWithMenu.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\obj\Debug\SchoolAppWithMenu.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\obj\Debug\SchoolAppWithMenu.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\SchoolAppWithMenu\SchoolAppWithMenu\obj\Debug\SchoolAppWithMenu.pdb

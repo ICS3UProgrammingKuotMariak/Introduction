@@ -1,0 +1,9 @@
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\bin\Debug\AddressProgram(KuotM).exe.config
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\bin\Debug\AddressProgram(KuotM).exe
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\bin\Debug\AddressProgram(KuotM).pdb
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\obj\Debug\AddressProgram(KuotM).csprojResolveAssemblyReference.cache
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\obj\Debug\AddressProgram_KuotM_.frmAddressProgram.resources
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\obj\Debug\AddressProgram_KuotM_.Properties.Resources.resources
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\obj\Debug\AddressProgram(KuotM).csproj.GenerateResource.Cache
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\obj\Debug\AddressProgram(KuotM).exe
+C:\Users\S295215\Documents\ICS3U Programming(Kuot Mariak)\Introduction\AddressProgram(KuotM)\AddressProgram(KuotM)\obj\Debug\AddressProgram(KuotM).pdb

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\obj\Debug\HelloWorldINT(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\obj\Debug\HelloWorldINT_KuotM_.frmHelloWorldINT.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\obj\Debug\HelloWorldINT_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\obj\Debug\HelloWorldINT(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\bin\Debug\HelloWorldINT(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\bin\Debug\HelloWorldINT(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\bin\Debug\HelloWorldINT(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\obj\Debug\HelloWorldINT(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldINT(KuotM)\HelloWorldINT(KuotM)\obj\Debug\HelloWorldINT(KuotM).pdb

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\bin\Debug\HelloWorldMenuKuotM.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\bin\Debug\HelloWorldMenuKuotM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\bin\Debug\HelloWorldMenuKuotM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\obj\Debug\HelloWorldMenuKuotM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\obj\Debug\HelloWorldMenuKuotM.frmHelloWorldMenu.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\obj\Debug\HelloWorldMenuKuotM.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\obj\Debug\HelloWorldMenuKuotM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\obj\Debug\HelloWorldMenuKuotM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Introduction\HelloWorldMenuKuotM\HelloWorldMenuKuotM\obj\Debug\HelloWorldMenuKuotM.pdb
